@@ -3,7 +3,7 @@
 # Using loop + len()
 
 # initializing dictionary
-test_dict = {"Gfg" : 4, "is" : 7, "Best" : 8, "for" : 6, "Geeks" : 10}
+test_dict = {"Gfg" : 5, "is" : 7, "Best" : 8, "for" : 6, "Geeks" : 10}
 
 # printing original dictionary
 print("The original dictionary is : " + str(test_dict))
