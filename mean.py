@@ -2,7 +2,7 @@
 # Dictionary Values Mean
 # Using loop + len()
 
-# initializing dictionary
+# initializing dictionary.
 test_dict = {"Gfg" : 4, "is" : 7, "Best" : 8, "for" : 6, "Geeks" : 10}
 
 # printing original dictionary
