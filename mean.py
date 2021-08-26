@@ -2,13 +2,11 @@
 # Dictionary Values Mean
 # Using loop + len()
 
-<<<<<<< HEAD
 # initializing dictionary
 test_dict = {"Gfg" : 5, "is" : 7, "Best" : 8, "for" : 6, "Geeks" : 10}
-=======
+
 # initializing dictionary.
 test_dict = {"Gfg" : 4, "is" : 7, "Best" : 8, "for" : 6, "Geeks" : 10}
->>>>>>> bf632caddb01aa0ee7bfd62ad90e68b0dee0e965
 
 # printing original dictionary
 print("The original dictionary is : " + str(test_dict))
